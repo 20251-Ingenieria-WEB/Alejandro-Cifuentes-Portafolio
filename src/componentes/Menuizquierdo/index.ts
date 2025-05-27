@@ -1,0 +1,1 @@
+export { default as Menuizquierdo } from './Menuizquierdo';

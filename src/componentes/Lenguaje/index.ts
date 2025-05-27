@@ -1,0 +1,1 @@
+export { default as Lenguaje } from './Lenguaje';
