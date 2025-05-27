@@ -44,8 +44,8 @@ const Hero: React.FC<HeroProps> = ({}) => {
         <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50">
           <div className="bg-white rounded-lg p-6 shadow-xl max-w-sm w-full text-center">
             <h3 className="text-xl font-bold mb-4">¡Contáctame!</h3>
-            <p className="text-gray-800 mb-2">📧 alejandro@email.com</p>
-            <p className="text-gray-800 mb-4">📞 +57 300 123 4567</p>
+            <p className="text-gray-800 mb-2">📧 alejandro.cifuentes@udea.edu.co</p>
+            <p className="text-gray-800 mb-4">📞 +57 305 303 8352</p>
             <button
               onClick={() => setShowModal(false)}
               className="mt-4 px-4 py-2 bg-yellow-500 text-black font-semibold rounded cursor-pointer"
