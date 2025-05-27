@@ -2,7 +2,7 @@
 import React from 'react';
 import styles from './Menuderecho.module.scss';
 
-export type MenuderechoProps = {};
+export type MenuderechoProps = object;
 
 {/*El menu derecho es solo de las redes sociales, solo instancie los iconos y le puse los links*/}
 

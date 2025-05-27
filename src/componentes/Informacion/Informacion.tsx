@@ -1,7 +1,7 @@
 "use client";
 import React from 'react';
 
-export type InformacionProps = {}
+export type InformacionProps = object
 
 const Informacion: React.FC<InformacionProps>  = ({}) => {
 	return (

@@ -2,7 +2,7 @@
 import React from 'react';
 import Image from 'next/image';
 
-export type PerfilProps = {}
+export type PerfilProps = object
 
 const Perfil: React.FC<PerfilProps>  = ({}) => {
 	return (

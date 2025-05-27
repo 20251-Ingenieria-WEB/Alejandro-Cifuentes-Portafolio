@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 {/*Este componente es el primer componente del contenido central*/}
 
-export type HeroProps = {}
+export type HeroProps = object
 
 const Hero: React.FC<HeroProps> = ({}) => {
   const [showModal, setShowModal] = useState(false);

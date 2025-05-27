@@ -11,7 +11,7 @@ import { Habilidades } from '../Habilidades';
 	para crear el menu completo y posteriormente no llamar todos los componentes
 	sino solo el componente del meni izquierdo*/}
 
-export type MenuizquierdoProps = {}
+export type MenuizquierdoProps = object
 
 const Menuizquierdo: React.FC<MenuizquierdoProps>  = ({}) => {
 	return (
